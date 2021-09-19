@@ -7,7 +7,7 @@ We are helping Louise, who is starting a Kickstarter for her play, Fever. The co
 The Purpose is to present Louise with reable data at a glance. Louise wants to look at Kickstarter and how they did in relation to their launch dates as well as their funding goals. This will allow her to analyze the plays which had success, which did not, and why. 
 By providing this dataset Louise can now make an informed decision on how to make her Play's Kickstarter reach its goals. 
 
-The Kickstarter data has shown that there have been 1047 total Play campaigns. The United States and the UK had all these campaigns. 
+The Kickstarter data has shown that there have been 1047 total Play campaigns. The United States and the UK had all of these campaigns. 
 This analysis encompasses all data in the theater category. There were a total of 1369 outcomes based on the theater category. Overall, there were 839 successful theater campaigns and 493 failed. We have broken the data into success by month. It is clear that May and June have been the most successful month in reaching there Kickstarter goals while the campaigns launched in December had the most failed.
 
 ![Theater Outcomes vs Launch Date, All](Theater_Outcomes_vs_Launch.png)
