@@ -4,7 +4,7 @@ Performing analysis on Kickstarter data to uncover trends
 ## Overview of Project
 This Project presents a look into several thousand Kickstarter projects from across the globe.    
 We are helping Louise, who is starting a Kickstarter for her play, Fever. The cost is estimated at $12,000. 
-The Purpose is to present Louise with reable data at a glance. Louise wants to look at Kickstarter and how they did in relation to their launch dates as well as their funding goals.This will allow her to analyze the which plays had success, which did not, and why. 
+The Purpose is to present Louise with reable data at a glance. Louise wants to look at Kickstarter and how they did in relation to their launch dates as well as their funding goals. This will allow her to analyze the which plays which had success, which did not, and why. 
 By providing this dataset Louise can now make an informed decision on how to make her Play's Kickstarter reach its goals. 
 
 The Kickstarter data has shown that there have been 1047 total Play campaigns. The United States and the UK had all these campaigns. 
